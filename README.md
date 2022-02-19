@@ -3,13 +3,13 @@ tweoss here
 
 <!--START_SECTION:waka-->
 ```text
-Total: 16 hrs 40 mins
+Total: 15 hrs 33 mins
 
-Rust         15 hrs 29 mins  ███████████████████████▒░   92.75 % 
-TOML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Markdown     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Rust         14 hrs 27 mins  ███████████████████████▒░   92.74 % 
+TOML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
 
