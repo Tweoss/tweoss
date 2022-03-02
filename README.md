@@ -4,7 +4,7 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Other   1 hr 26 mins    ██████████████▒░░░░░░░░░░   57.32 %
+Other   1 hr 26 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
