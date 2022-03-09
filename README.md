@@ -4,8 +4,10 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Rust         46 mins         █████████████████████████   99.80 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Rust         46 mins         █████████████░░░░░░░░░░░░   52.17 %
+JavaScript   42 mins         ███████████▓░░░░░░░░░░░░░   46.77 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
