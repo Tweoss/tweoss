@@ -4,8 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-conf         2 hrs 26 mins   █████████████░░░░░░░░░░░░   51.84 %
-Other        50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+conf         1 hr 59 mins    ██████████░░░░░░░░░░░░░░░   39.93 %
+Other        1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   20.50 %
 ```
 
 <!--END_SECTION:waka-->
