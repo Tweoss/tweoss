@@ -4,7 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Other        31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+JSON    30 mins         █████████▒░░░░░░░░░░░░░░░   37.49 %
+Other   24 mins         ███████▒░░░░░░░░░░░░░░░░░   29.25 %
 ```
 
 <!--END_SECTION:waka-->
