@@ -4,9 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Clojure   35 mins         ████████░░░░░░░░░░░░░░░░░   32.02 %
-JSON      31 mins         ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-Other     20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+Clojure   35 mins         ███████████░░░░░░░░░░░░░░   43.74 %
+Other     11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
 ```
 
 <!--END_SECTION:waka-->
