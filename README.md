@@ -4,8 +4,9 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Clojure   35 mins         ███████████░░░░░░░░░░░░░░   43.74 %
-Other     11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Clojure   35 mins         █████████░░░░░░░░░░░░░░░░   35.54 %
+pdf       18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+Other     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
 ```
 
 <!--END_SECTION:waka-->
