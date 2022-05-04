@@ -4,9 +4,9 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-HTML         3 hrs 15 mins   █████████████████████▒░░░   85.61 %
-JavaScript   32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+HTML         2 hrs 33 mins   ████████████████████▓░░░░   82.48 %
+JavaScript   32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
