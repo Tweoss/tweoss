@@ -4,10 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Rust       6 hrs 4 mins    ██████████████████████▓░░   90.05 %
-Markdown   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Clojure    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Rust       7 hrs 32 mins   ██████████████████████░░░   88.62 %
+Other      25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
