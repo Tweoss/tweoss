@@ -4,9 +4,9 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Rust         15 hrs 20 mins  ████████████████████▒░░░░   81.90 %
-Svelte       1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Rust         12 hrs 29 mins  ████████████████████░░░░░   79.82 %
+Svelte       1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
