@@ -4,10 +4,7 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-Rust         10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-conf         10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
-Other        9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+TOML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
