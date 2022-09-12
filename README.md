@@ -4,7 +4,11 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Svelte       28 mins         ██████████████████▓░░░░░░   75.18 %
+HTML         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+TypeScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Text         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
