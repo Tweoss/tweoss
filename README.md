@@ -4,9 +4,9 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 16 mins    ██████████████████░░░░░░░   72.53 %
-Svelte       13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Other        10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+TypeScript   1 hr 16 mins    ███████████████████░░░░░░   76.49 %
+Svelte       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Other        10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
 ```
 
 <!--END_SECTION:waka-->
