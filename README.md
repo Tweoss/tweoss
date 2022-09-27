@@ -4,9 +4,11 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 16 mins    ███████████████████░░░░░░   76.51 %
-Svelte       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-Other        10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+TypeScript   1 hr 16 mins    ████████████████████░░░░░   79.89 %
+Svelte       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Vim Script   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Clojure      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
