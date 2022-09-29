@@ -4,8 +4,10 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Vim Script   3 mins          ██████████████▒░░░░░░░░░░   57.39 %
-Clojure      2 mins          ██████████▓░░░░░░░░░░░░░░   42.61 %
+Makefile     37 mins         ██████████████████▓░░░░░░   74.80 %
+conf         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Vim Script   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Clojure      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
