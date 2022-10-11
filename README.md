@@ -4,7 +4,7 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust   22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
