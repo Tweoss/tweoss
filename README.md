@@ -4,7 +4,9 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Rust   3 hrs 51 mins   █████████████████████████   100.00 %
+Rust    3 hrs 55 mins   ██████████████████████░░░   88.31 %
+TOML    17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Other   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 ```
 
 <!--END_SECTION:waka-->
