@@ -4,9 +4,7 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Rust         13 mins         ████████████████████████░   96.35 %
-TOML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
