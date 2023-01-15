@@ -4,7 +4,10 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust       50 mins         ██████████████▓░░░░░░░░░░   58.30 %
+Text       29 mins         ████████▓░░░░░░░░░░░░░░░░   34.28 %
+JSON       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
