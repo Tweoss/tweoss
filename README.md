@@ -4,10 +4,10 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Assembly         5 hrs 54 mins   ██████████████████░░░░░░░   71.91 %
-ca65 assembler   2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.99 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Assembly         5 hrs 54 mins   ███████████████▒░░░░░░░░░   60.95 %
+ca65 assembler   3 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   38.93 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
