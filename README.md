@@ -4,8 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-Assembly         5 hrs 54 mins   ███████████████▒░░░░░░░░░   60.95 %
-ca65 assembler   3 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   38.93 %
+Assembly         5 hrs 54 mins   ███████████████▒░░░░░░░░░   60.80 %
+ca65 assembler   3 hrs 47 mins   █████████▓░░░░░░░░░░░░░░░   39.09 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
