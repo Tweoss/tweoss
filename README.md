@@ -4,9 +4,9 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-C                13 hrs 11 mins  █████████████████░░░░░░░░   68.16 %
-Assembly         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Other            1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+C                10 hrs 35 mins  ███████████████▒░░░░░░░░░   60.90 %
+Python           1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Other            1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
