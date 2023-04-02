@@ -4,10 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 %
-C            2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Rust         2 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-Other        2 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+JavaScript   5 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   46.59 %
+Other        2 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
 ```
 
 <!--END_SECTION:waka-->
