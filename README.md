@@ -4,8 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   46.59 %
-Other        2 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+JavaScript   10 hrs 1 min    ███████████████▒░░░░░░░░░   60.85 %
+Other        2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
 ```
 
 <!--END_SECTION:waka-->
