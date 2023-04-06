@@ -4,10 +4,11 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 6 mins   ████████████████████▓░░░░   83.03 %
-HTML         1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-SSH Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript   8 hrs 22 mins   █████████████████████▒░░░   84.79 %
+HTML         1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Rust         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
