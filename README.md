@@ -4,8 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```text
-C++     3 hrs 50 mins   █████████████████████▓░░░   86.20 %
-Other   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+C++        5 hrs 47 mins   ███████████████▓░░░░░░░░░   62.23 %
+Other      1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
 ```
 
 <!--END_SECTION:waka-->
