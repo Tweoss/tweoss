@@ -4,10 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 hrs 5 mins    █████████████▒░░░░░░░░░░░   53.33 %
-Other      3 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.88 %
-Python     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown   3 hrs 54 mins   █████████████▓░░░░░░░░░░░   54.48 %
+Other      3 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.52 %
 ```
 
 <!--END_SECTION:waka-->
