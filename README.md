@@ -4,8 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 54 mins   █████████████▓░░░░░░░░░░░   54.48 %
-Other      3 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.52 %
+Other      3 hrs 13 mins   █████████████░░░░░░░░░░░░   52.09 %
+Markdown   2 hrs 58 mins   ████████████░░░░░░░░░░░░░   47.91 %
 ```
 
 <!--END_SECTION:waka-->
