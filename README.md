@@ -4,9 +4,7 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-C       18 mins         ████████████████████████▒   96.99 %
-Text    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
