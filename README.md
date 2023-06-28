@@ -4,7 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   5 mins          █████████████▒░░░░░░░░░░░   53.91 %
+TOML    4 mins          ███████████▓░░░░░░░░░░░░░   46.09 %
 ```
 
 <!--END_SECTION:waka-->
