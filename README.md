@@ -4,8 +4,7 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-C++          28 mins         █████████████████████████   99.83 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
