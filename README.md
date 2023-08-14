@@ -4,7 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   0 secs          █████████████████████████   100.00 %
+Markdown   13 mins         ████████████████████████░   96.35 %
+Rust       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
