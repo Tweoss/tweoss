@@ -4,7 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   17 mins         ███████████████░░░░░░░░░░   59.84 %
+Ezhil        12 mins         ██████████░░░░░░░░░░░░░░░   40.16 %
 ```
 
 <!--END_SECTION:waka-->
