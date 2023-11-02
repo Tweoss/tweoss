@@ -4,8 +4,7 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   1 min           ███████████████████████▓░   95.29 %
-TOML   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
