@@ -4,7 +4,8 @@ tweoss here
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust   56 mins         █████████████████████████   99.39 %
+Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
